@@ -1,0 +1,14 @@
+# Ignore Composer vendor directory
+/vendor/
+
+# Ignore custom library folder
+/lib/
+
+# Ignore Composer lock file (optional)
+composer.lock
+
+# Ignore system or IDE files
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db
