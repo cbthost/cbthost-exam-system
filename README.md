@@ -58,22 +58,22 @@ This open-source Admin Panel allows schools and institutions to:
 ![Dashboard](assets/dashboard.png)  
 
 ### Login Page  
-![Login Page](assets/login\ page.png)  
+![Login Page](assets/login.png)  
 
 ### Student Upload (CSV/Excel)  
-![Student Upload](assets/student\ upload.png)  
+![Student Upload](assets/student upload.png)  
 
 ### Student Data Table  
-![Student Data](assets/student\ data.png)  
+![Student Data](assets/student data.png)  
 
 ### Student Results View  
-![Student Results](assets/student\ results.png)  
+![Student Results](assets/student results.png)  
 
 ### Single Student Result Detail  
-![Single Student Result](assets/single\ sudent\ result\ 1.png)  
+![Single Student Result](assets/single sudent result 1.png)  
 
 ### Result Analysis – View 1  
-![Result Analysis 1](assets/resullt\ analyis\ 1.png)  
+![Result Analysis 1](assets/resullt analyis 1.png)  
 
 ### Result Analysis – View 2  
 ![Result Analysis](assets/result\ anaysis.png)  
